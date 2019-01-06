@@ -1,0 +1,23 @@
+{
+  "name": "webapp_db",
+  "version": "1.0.0",
+  "description": "Web Application + Database Using Nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "node-mysql": "^0.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsh466/WebApp_DB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsh466/WebApp_DB/issues"
+  },
+  "homepage": "https://github.com/lsh466/WebApp_DB#readme"
+}
